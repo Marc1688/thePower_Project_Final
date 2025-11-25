@@ -91,8 +91,8 @@ La segunda parte es la combinación del análisis exploratorio de los datos y el
 
 ## 📋 Estructura del Proyecto
 
-- **Trabajo_Final:** Contiene 2 carpetas de archivos:
-  - La primera es "data" la cual contiene 2 carpetas más:
+- **Trabajo_Final:** Contiene 1 archivo zip y 1 carpeta de archivos:
+  - El archivo zip "data.zip" contiene 2 carpetas más:
     - Por un lado, la carpeta "processed", que incluye 3 archivos procesados de la raw data: "accidentes_2023_enriquecido.csv", "accidentes_clean_2023.csv" y "parque_clean_2023.csv".
     - Por otro lado, la carpeta "raw", que contiene 2 carpetas:
       -  La primera es la carpeta "accidentes", que incluye los dos archivos "Diccionario-Tabla-Accidente.xlsx" y "TABLA_ACCIDENTES_23.XLSX", obtenidos de la DGT.
