@@ -98,7 +98,7 @@ La segunda parte es la combinación del análisis exploratorio de los datos y el
       -  La primera es la carpeta "accidentes", que incluye los dos archivos "Diccionario-Tabla-Accidente.xlsx" y "TABLA_ACCIDENTES_23.XLSX", obtenidos de la DGT.
       -  La segunda es la carpeta "parque", que incluye el archivo "Parque-de-vehiculos-Tablas-estadisticas-2023.xlsx", obtenido de la página web de estadísticas oficiales del parque automovilístico.
   - La segunda es "notebooks" la cual contiene los dos archivos .ipynb, "01_ingesta_y_union.ipynb" y "02_analisis_exploratorio.ipynb".
-- **Dashboard_Interactivo:** El archivo de PowerBI con el dashboard interactivo de los datos.
+- **Dashboard_Análisis de Accidentes de Tráfico:** El archivo que muestra el Dasboard de PowerBI con el dashboard interactivo de los datos.
 - **README.md:** Contiene la descripción del proyecto.
 
 ## 🛠 Instalación y Requisitos
